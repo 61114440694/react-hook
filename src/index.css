@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+form{
+  flex: auto;
+  display: grid;
+  padding: 2rem;
+  
+}
+
+.input-username_password{
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+}
+
+.login-btn{
+  margin-top: 2rem;
+  border-radius: 5rem;
+  padding: 10px;
+  
+}
